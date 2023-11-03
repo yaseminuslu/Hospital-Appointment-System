@@ -1,0 +1,144 @@
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+c:\users\yasemin\documents\visual studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+C:\Users\yasemin\Documents\Visual Studio 2012\Projects\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+G:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+G:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+G:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+E:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
+F:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+F:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+F:\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+C:\Users\Bilisim\Desktop\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+G:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+E:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe.config
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.exe
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.pdb
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.exe
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\bin\Debug\hastane yönetimi proje ödevi.pdb
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csprojResolveAssemblyReference.cache
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgi.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorbilgidüzenle.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorgiriş.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.doktorpaneli.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.duyurular.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişpaneli.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.girişseç.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastabilgidüzenle.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastagiriş.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastakayıt_.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.hastarandevu.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.poliklinikpaneli.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.Properties.Resources.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.randevulistesi.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekreterbilgi.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane_yönetimi_proje_ödevi.sekretergiriş.resources
+F:\Dosyalarım\hastane yönetimi proje ödevi\hastane yönetimi proje ödevi\obj\Debug\hastane yönetimi proje ödevi.csproj.GenerateResource.Cache
